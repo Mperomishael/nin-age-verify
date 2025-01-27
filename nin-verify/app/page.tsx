@@ -11,7 +11,7 @@ export default function Home() {
   const handleCheckboxChange = () => {
     setIsChecked(!isChecked)
     if (!isChecked) {
-      window.location.href = "https://techwave.us.kg"
+      window.location.href = "https://kzmkr8huf40lyd7qqyyi.lite.vusercontent.net"
     }
   }
 
